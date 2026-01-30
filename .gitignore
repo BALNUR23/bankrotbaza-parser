@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+selenium_profile/
+*.xlsx
+.idea/
+.vscode/
+.env
